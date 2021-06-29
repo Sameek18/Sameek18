@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sameeksha Agarwal</h1>
-<h3 align="center">A passionate web developer from India</h3>
+<h3 align="center">A Computer Science undergraduate and a passionate web developer from India</h3>
 
 - 🔭 I’m currently working on [Covid Dashboard](https://covid19--dashboards.herokuapp.com/)
 
