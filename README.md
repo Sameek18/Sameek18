@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sameeksha Agarwal</h1>
+<h3 align="center">A passionate web developer from India</h3>
 
-<!--
-**Sameek18/Sameek18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [Covid Dashboard](https://covid19--dashboards.herokuapp.com/)
 
-Here are some ideas to get you started:
+- 📫 How to reach me **sameeksha.agarwal12@gmail.com**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📄 Know about my experiences [https://www.linkedin.com/in/sameeksha18/](https://www.linkedin.com/in/sameeksha18/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sameeksha18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameeksha18" height="30" width="40" /></a>
+<a href="https://instagram.com/sameeksha__agarwal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameeksha__agarwal" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/sameeksha_agarwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="sameeksha_agarwl" height="30" width="40" /></a>
+</p>
